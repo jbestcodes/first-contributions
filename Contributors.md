@@ -709,6 +709,7 @@
 - [Arindam Chakraborty](https://github.com/arindm007)
 - [Argha Saha](https://github.com/arg387)
 - [v1ct0r-ops](https://github.com/v1ct0r-ops)
+- [Julie Adul](https://github.com/jbestcodes)
 - [Carburio](https://github.com/Carburio)
 - [kamil](https://github.com/Kamil115853)
 - [ZNezirov](https://github.com/ZNezirov)
